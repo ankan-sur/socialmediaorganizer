@@ -1,1 +1,1 @@
-# socialmediaorganizer
+# Program written as part of coursework. 
